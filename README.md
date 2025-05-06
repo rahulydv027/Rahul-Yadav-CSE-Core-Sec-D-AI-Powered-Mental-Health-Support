@@ -1,7 +1,7 @@
 # Rahul Yadav CSE(Core) Sec - D
 
 
-**Project Title:** Mental Health Support
+**Project Title:** Ai Powered Mental Health Support
 
 **Project ID:** Y1-2024-25-G65  
 
